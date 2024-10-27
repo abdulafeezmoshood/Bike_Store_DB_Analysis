@@ -1,4 +1,4 @@
-## Bike_Store_DB_Analysis
+[Bike Store Analysis Code.txt](https://github.com/user-attachments/files/17534014/Bike.Store.Analysis.Code.txt)## Bike_Store_DB_Analysis
  This is a business analysis for a bike store, to extract meaningful insights from the corporate database.
 ## Scenario Overview:
 You are working as a business analyst for a bike store, and your task is to extract meaningful insights from the corporate database. The project involves several smaller tasks aimed at building foundational SQL skills and solving business problems. 
@@ -70,7 +70,7 @@ Sales.Orders and Sales.OrderDetails.
 
 ## Solution Query
 
-[Uploading Bike Store DB Analysis.sql…]()
+[Uploading Bike Store Analysis Code.txt…]()
 
 
 
