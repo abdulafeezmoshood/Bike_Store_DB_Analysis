@@ -70,7 +70,7 @@ Sales.Orders and Sales.OrderDetails.
 
 ## Solution Query
 
-
+[Uploading Bike Store DB Analysis.sql…]()
 
 
 
